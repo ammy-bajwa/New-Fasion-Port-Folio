@@ -1,0 +1,10 @@
+@import './components/navbar.css';
+@import './components/slider.css';
+@import './components/services.css';
+@import './components/about.css';
+@import './components/designs.css';
+
+
+body {
+    position: relative;   
+}

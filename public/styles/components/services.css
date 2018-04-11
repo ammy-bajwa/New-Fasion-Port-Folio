@@ -1,0 +1,26 @@
+#services{
+    padding-top: 40px;
+    margin-top: 30px;
+}
+.services{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 40px;
+    margin-top: 40px;
+
+}
+.serviceText{
+    padding-top:20px;
+}
+.border{
+    border: 2px solid #595959;
+    border-radius: 15px;
+    padding:10px;
+    margin:10px;
+}
+
+.lastService{
+    display: flex;
+    align-content: center;
+}
